@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @julius-m20
+- 👋 Hi, I’m Julius
 - 👀 I’m interested in Data Science & Machine learning
 - 🌱 I’m currently learning Neural Newtworks
-- 💞️ I’m looking to collaborate on anyone building Machine Learning Apps
+- 💞️ I’m looking to collaborate with anyone building Machine Learning models
 - 📫 You can reach me via my LinkedIn account (:
 
 
