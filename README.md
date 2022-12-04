@@ -1,4 +1,11 @@
-<h2> Hey there! I'm Julius.</h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+</head>
+<body>
+  
+h2> Hey there! I'm Julius.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -42,3 +49,7 @@
 </p>
 
 ⭐️ Author [Julius Markwei](https://github.com/julius-m20)
+
+
+</body>
+</html>
