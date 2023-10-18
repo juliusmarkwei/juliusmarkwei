@@ -4,7 +4,6 @@
   
 </head>
 <body>
-
 <h2> Hey there! I'm Julius.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
