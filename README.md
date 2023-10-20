@@ -30,7 +30,6 @@
   ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-Jupyter%20Notebook-orange)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-
 <br/>
 
  [![Julius's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juliusmarkwei&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
