@@ -85,7 +85,7 @@ I'm Julius, a <b>Backend Engineer</b> with <b>Machine Learning</b> & <b>Deep Lea
   </tbody>
 </table>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h3 align="center">⚡ Stats ⚡</h3>
 
 <section style="text-align: center; display: block; margin: 0 auto;">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" style="text-align: center;" title="Go to Source"><img   width=400 src="https://streak-stats.demolab.com/?user=juliusmarkwei&theme=dark&border=61dafb&hide_border=true" alt="zumrudu-anka" /></a>  <a style="text-align: center;" href="https://github.com/anuraghazra/github-readme-stats"><img width=400 src="https://github-readme-stats.vercel.app/api?username=juliusmarkwei&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a> <a style="text-align: center;" href="https://github.com/anuraghazra/github-readme-stats"><img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliusmarkwei&layout=compact&theme=dark&hide_border=true" /></a>
@@ -95,9 +95,9 @@ I'm Julius, a <b>Backend Engineer</b> with <b>Machine Learning</b> & <b>Deep Lea
 
  [![Julius's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juliusmarkwei&theme=react-dark&area=true&height=500&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h3> 🤝🏻 &nbsp;Where to find me </h3>
+<h3 align="center"> 🤙🏾 &nbsp;Where to find me </h3>
 
-<p><a href="https://github.com/juliusmarkwei" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/mrj_in_person" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a><a href="https://www.linkedin.com/in/julius-markwei-055359218" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.kaggle.com/juliusmarkwei" target="_blank"><img alt="kaggle" src="https://img.shields.io/badge/Kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a> <a href="mailto:juliusmarkwei2000@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://wa.link/zvidro" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a></p>
+<p align="center"><a href="https://github.com/juliusmarkwei" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/mrj_in_person" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a><a href="https://www.linkedin.com/in/julius-markwei-055359218" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.kaggle.com/juliusmarkwei" target="_blank"><img alt="kaggle" src="https://img.shields.io/badge/Kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a> <a href="mailto:juliusmarkwei2000@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://wa.link/zvidro" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a></p>
 
 </body>
 </html>
