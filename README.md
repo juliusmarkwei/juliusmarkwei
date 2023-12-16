@@ -2,16 +2,7 @@
 <html lang="en">
 <head>
   <style>
-    body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            margin: 0;
-        }
-    p > img {
-            display: inline-flex;
-            margin: 0 auto; 
-        }
+    
   </style>
 </head>
 
@@ -100,7 +91,7 @@ I'm Julius, a <b>Backend Engineer</b> with <b>Machine Learning</b> & <b>Deep Lea
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <section style="text-align: center;">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source"><img  width=450 src="https://streak-stats.demolab.com/?user=juliusmarkwei&theme=dark&border=61dafb&hide_border=true" alt="zumrudu-anka" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img width=450 src="https://github-readme-stats.vercel.app/api?username=juliusmarkwei&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a> <br> <a href="https://github.com/anuraghazra/github-readme-stats"><img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliusmarkwei&layout=compact&theme=dark&hide_border=true" /></a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source"><img  width=400 src="https://streak-stats.demolab.com/?user=juliusmarkwei&theme=dark&border=61dafb&hide_border=true" alt="zumrudu-anka" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img width=400 src="https://github-readme-stats.vercel.app/api?username=juliusmarkwei&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a> <br> <a href="https://github.com/anuraghazra/github-readme-stats"><img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliusmarkwei&layout=compact&theme=dark&hide_border=true" /></a>
 </section>
 
 <br/>
