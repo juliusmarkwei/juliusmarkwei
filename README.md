@@ -87,7 +87,7 @@ I'm Julius, A Backend Engineer with ML experience from <img src="./assets/ghana.
 
 <br/>
 
- [![Julius's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juliusmarkwei&theme=react-dark&area=true&height=550&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Julius's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juliusmarkwei&theme=react-dark&area=true&height=520&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3> 🤝🏻 &nbsp;Where to find me </h3>
 
