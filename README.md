@@ -1,17 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <style>
+    body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 0;
+        }
+    p > img {
+            display: inline-flex;
+            margin: 0 auto; 
+        }
+  </style>
 </head>
 
 <body>
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br>
-I'm Julius, a <b>Backend Engineer</b> with <b>Machine Learning</b> & <b>Deep Learning</b> experience from <img src="./assets/ghana.png" width="13"/> <b>Ghana, Accra</b>, currently schooling at the <b>University of Cape Coast</b>. </p>
+<p align="center">Welcome to my page! </br>
+I'm Julius, a <b>Backend Engineer</b> with <b>Machine Learning</b> & <b>Deep Learning</b> experience from <img src="./assets/ghana.png" style="display:inline" width="13"/> <b>Ghana, Accra</b>, currently schooling at the <b>University of Cape Coast</b>. </p>
 
 
-<h3>Things I code with</h3>
+<h3 align="center">Things I code with</h3>
 
 <p>
   
@@ -49,8 +61,8 @@ I'm Julius, a <b>Backend Engineer</b> with <b>Machine Learning</b> & <b>Deep Lea
   
   
 </p>
-<h3>Open source projects</h3>
-<table>
+<h3 align="center">Open source projects</h3>
+<table align="center">
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
@@ -85,9 +97,15 @@ I'm Julius, a <b>Backend Engineer</b> with <b>Machine Learning</b> & <b>Deep Lea
   </tbody>
 </table>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+
+<section style="text-align: center;">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source"><img  width=450 src="https://streak-stats.demolab.com/?user=juliusmarkwei&theme=dark&border=61dafb&hide_border=true" alt="zumrudu-anka" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img width=450 src="https://github-readme-stats.vercel.app/api?username=juliusmarkwei&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a> <br> <a href="https://github.com/anuraghazra/github-readme-stats"><img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliusmarkwei&layout=compact&theme=dark&hide_border=true" /></a>
+</section>
+
 <br/>
 
- [![Julius's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juliusmarkwei&theme=react-dark&area=true&height=520&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Julius's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juliusmarkwei&theme=react-dark&area=true&height=500&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3> 🤝🏻 &nbsp;Where to find me </h3>
 
