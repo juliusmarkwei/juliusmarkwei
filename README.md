@@ -87,7 +87,7 @@ I'm Julius, a <b>Backend Engineer</b> with <b>Machine Learning</b> & <b>Deep Lea
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<section style="text-align: center;">
+<section style="text-align: center; display: block; margin: 0 auto;">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" style="text-align: center;" title="Go to Source"><img   width=400 src="https://streak-stats.demolab.com/?user=juliusmarkwei&theme=dark&border=61dafb&hide_border=true" alt="zumrudu-anka" /></a>  <a style="text-align: center;" href="https://github.com/anuraghazra/github-readme-stats"><img width=400 src="https://github-readme-stats.vercel.app/api?username=juliusmarkwei&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a> <a style="text-align: center;" href="https://github.com/anuraghazra/github-readme-stats"><img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliusmarkwei&layout=compact&theme=dark&hide_border=true" /></a>
 </section>
 
