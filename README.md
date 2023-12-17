@@ -8,7 +8,7 @@
 
 
 <p align="center">Welcome to my page! </br>
-I'm Julius, a <b>Backend Engineer</b> with <b>Machine Learning</b> & <b>Deep Learning</b> experience from <img src="./assets/ghana.png" style="display:inline" width="13"/> <b>Ghana, Accra</b>, currently schooling at the <b>University of Cape Coast</b>. </p>
+I'm Julius, a <b>Backend Engineer</b> with <b>Machine Learning</b> & <b>Deep Learning</b> experience from <img src="./assets/ghana.png" style="display:inline" width="13"/> <b>Accra, Ghana</b>, currently schooling at the <b>University of Cape Coast</b>. </p>
 
 <h3 align="center">🛠️ Things I code with 🛠️</h3>
 
