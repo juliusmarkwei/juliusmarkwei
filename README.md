@@ -35,16 +35,16 @@ I'm Julius, a <b>Backend Engineer</b> with <b>Machine Learning</b> & <b>Deep Lea
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white&style=for-the-badge" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
   <img alt="GitHUb" src="https://img.shields.io/badge/GitHub-%23F37626?logo=github&logoColor=white&style=for-the-badge" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&style=for-the-badge" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-%23E95420?logo=ubuntu&logoColor=white" />
-  <img alt="tensorflow" src="https://img.shields.io/badge/Tensorflow-%23FF6F00?logo=tensorflow&logoColor=white  ">
-  <img alt="scikitlearn" src="https://img.shields.io/badge/Scikit%20Learn-%23F7931E?logo=scikitlearn&logoColor=white">
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="GoogleColab" src="https://img.shields.io/badge/Google%20Colab-%23F9AB00?logo=googlecolab&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=white" />
-  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-%23dadb24?logo=javascript&logoColor=white" />
+  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white&style=for-the-badge" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-%23E95420?logo=ubuntu&logoColor=white&style=for-the-badge" />
+  <img alt="tensorflow" src="https://img.shields.io/badge/Tensorflow-%23FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge">
+  <img alt="scikitlearn" src="https://img.shields.io/badge/Scikit%20Learn-%23F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge">
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white&style=for-the-badge" />
+  <img alt="GoogleColab" src="https://img.shields.io/badge/Google%20Colab-%23F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=white&style=for-the-badge" />
+  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-%23dadb24?logo=javascript&logoColor=white&style=for-the-badge" />
   
   <br>
 </p>
