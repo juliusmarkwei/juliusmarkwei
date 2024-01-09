@@ -15,11 +15,11 @@ I'm Julius, a <b>Backend Engineer</b> with <b>Machine Learning</b> & <b>Deep Lea
 <p>
   
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Jupyter-Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-%23286ed7?logo=jupyter&logoColor=white" />
-  <img alt="python" src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS%203-%231572B6?logo=css3&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img alt="Jupyter-Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-%23286ed7?logo=jupyter&logoColor=white&style=for-the-badge" />
+  <img alt="python" src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white&style=for-the-badge">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS%203-%231572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="Vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?logo=visualstudiocode&logoColor=white" />
   <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-%233e6cc1?logo=postgresql&logoColor=white" />
   <img alt="PgAdmin" src="https://img.shields.io/badge/pgAdmin-%233e6cc1?logo=postgresql&logoColor=white" />
