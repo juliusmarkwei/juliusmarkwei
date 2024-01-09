@@ -27,7 +27,7 @@ I'm Julius, a <b>Backend Engineer</b> with <b>Machine Learning</b> & <b>Deep Lea
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458?logo=pandas&logoColor=white&style=for-the-badge" />
   <img alt="Numpy" src="https://img.shields.io/badge/Numpy-%23013243?logo=numpy&logoColor=white&style=for-the-badge" />
   <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20?logo=django&logoColor=white&style=for-the-badge">
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white&style=for-the-badge" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?logo=Node.js&logoColor=white&style=for-the-badge" />
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-%233FCF8E?logo=Supabase&logoColor=white&style=for-the-badge" />
   <img alt="Render" src="https://img.shields.io/badge/Render-%23a45b81?logo=render&logoColor=white&style=for-the-badge" />
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23B7178C?logo=vercel&logoColor=white&style=for-the-badge" />
@@ -35,13 +35,13 @@ I'm Julius, a <b>Backend Engineer</b> with <b>Machine Learning</b> & <b>Deep Lea
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
   <img alt="GitHUb" src="https://img.shields.io/badge/GitHub-%23F37626?logo=github&logoColor=white&style=for-the-badge" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&style=for-the-badge" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white&style=for-the-badge" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?logo=brave&logoColor=white&style=for-the-badge" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-%23E95420?logo=ubuntu&logoColor=white&style=for-the-badge" />
   <img alt="tensorflow" src="https://img.shields.io/badge/Tensorflow-%23FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge">
   <img alt="scikitlearn" src="https://img.shields.io/badge/Scikit%20Learn-%23F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge">
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white&style=for-the-badge" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=white&style=for-the-badge" />
   <img alt="GoogleColab" src="https://img.shields.io/badge/Google%20Colab-%23F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=white&style=for-the-badge" />
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-%23dadb24?logo=javascript&logoColor=white&style=for-the-badge" />
