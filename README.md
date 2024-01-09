@@ -23,7 +23,7 @@ I'm Julius, a <b>Backend Engineer</b> with <b>Machine Learning</b> & <b>Deep Lea
   <img alt="Vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
   <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-%233e6cc1?logo=postgresql&logoColor=white&style=for-the-badge" />
   <img alt="PgAdmin" src="https://img.shields.io/badge/pgAdmin-%233e6cc1?logo=postgresql&logoColor=white&style=for-the-badge" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white&style=for-the-badge" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" />
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458?logo=pandas&logoColor=white&style=for-the-badge" />
   <img alt="Numpy" src="https://img.shields.io/badge/Numpy-%23013243?logo=numpy&logoColor=white&style=for-the-badge" />
   <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20?logo=django&logoColor=white&style=for-the-badge">
@@ -32,7 +32,7 @@ I'm Julius, a <b>Backend Engineer</b> with <b>Machine Learning</b> & <b>Deep Lea
   <img alt="Render" src="https://img.shields.io/badge/Render-%23a45b81?logo=render&logoColor=white&style=for-the-badge" />
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23B7178C?logo=vercel&logoColor=white&style=for-the-badge" />
   <img alt="Django rest" src="https://img.shields.io/badge/Django%20Rest%20Framework-%23EF323D?logo=django&logoColor=white&style=for-the-badge">
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white&style=for-the-badge" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
   <img alt="GitHUb" src="https://img.shields.io/badge/GitHub-%23F37626?logo=github&logoColor=white&style=for-the-badge" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&style=for-the-badge" />
