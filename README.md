@@ -12,7 +12,6 @@ I'm Julius, a <b>Backend Engineer</b> with <b>Machine Learning</b> & <b>Deep Lea
 <h3 align="center">🛠️ Things I code with 🛠️</h3>
 
 <p>
-  
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
@@ -44,9 +43,9 @@ I'm Julius, a <b>Backend Engineer</b> with <b>Machine Learning</b> & <b>Deep Lea
   <img alt="GoogleColab" src="https://img.shields.io/badge/Google%20Colab-%23F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=white&style=for-the-badge" />
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-%23dadb24?logo=javascript&logoColor=white&style=for-the-badge" />
-  
   <br>
 </p>
+
 <h3 align="center">🏆 Open source projects 🏆</h3>
 <table align="center">
   <thead align="center">
