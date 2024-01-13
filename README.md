@@ -92,7 +92,6 @@ I'm Julius, a <b>Backend Engineer</b> with <b>Machine Learning</b> & <b>Deep Lea
 
  [![Julius's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juliusmarkwei&theme=react-dark&area=true&height=500&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
 <h3 align="center"> 🤙🏾 &nbsp;Where to find me </h3>
 
 <p align="center"><a href="https://github.com/juliusmarkwei" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/mrj_in_person" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a><a href="https://www.linkedin.com/in/julius-markwei-055359218" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.kaggle.com/juliusmarkwei" target="_blank"><img alt="kaggle" src="https://img.shields.io/badge/Kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a> <a href="mailto:juliusmarkwei2000@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://wa.link/zvidro" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a></p>
