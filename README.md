@@ -7,7 +7,7 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> Hey! Nice to see you.</h1>
 
 <p align="center">👋 Welcome to my GitHub page!</br>
-I'm Julius, a Backend Engineer based in Accra, Ghana<img src="./assets/ghana.png" style="display:inline" width="13"/>. Currently pursuing my studies at the University of Cape Coast, I'm passionate about building robust backend systems and exploring new technologies.</p>
+I'm Julius, a <strong>`Software Engineer`</strong> based in Accra, Ghana <img src="./assets/ghana.png" style="display:inline" width="13"/>. Currently pursuing my studies at the University of Cape Coast, I'm passionate about building robust backend systems and exploring new technologies.</p>
 
 <h3 align="center">🛠️ Things I code with 🛠️</h3>
 
