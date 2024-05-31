@@ -38,6 +38,7 @@ I'm Julius, a <strong>`Software Engineer`</strong> based in Accra, Ghana <img sr
   <img alt="GoogleColab" src="https://img.shields.io/badge/Google%20Colab-%23F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=white&style=for-the-badge" />
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-%23dadb24?logo=javascript&logoColor=white&style=for-the-badge" />
+	<img alt="typescript" src="https://img.shields.io/badge/JavaScript-%23dadb24?logo=javascript&logoColor=white&style=for-the-badge />
   <br>
 </p>
 
