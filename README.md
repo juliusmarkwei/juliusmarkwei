@@ -16,6 +16,10 @@ I'm Julius, a <strong>`Software Engineer`</strong> based in Accra, Ghana <img sr
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
 <img alt="typescript" src="https://img.shields.io/badge/typescript-brightgreen?style=for-the-badge&logo=typescript&logoColor=white&color=blue" />
+<img alt="tailwinf-css" src="https://img.shields.io/badge/tailwind%20css-brightgreen?style=for-the-badge&logo=tailwind-css&logoColor=white&color=blue
+" />
+<img src="https://img.shields.io/badge/react-brightgreen?style=for-the-badge&logo=react&logoColor=%2339b0c6&color=%230e1544
+" />
   <img alt="python" src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white&style=for-the-badge">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS%203-%231572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="Vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
