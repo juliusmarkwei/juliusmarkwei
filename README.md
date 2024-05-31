@@ -15,6 +15,7 @@ I'm Julius, a <strong>`Software Engineer`</strong> based in Accra, Ghana <img sr
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img alt="typescript" src="https://img.shields.io/badge/typescript-brightgreen?style=for-the-badge&logo=typescript&logoColor=white&color=blue" />
   <img alt="python" src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white&style=for-the-badge">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS%203-%231572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="Vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
@@ -38,7 +39,7 @@ I'm Julius, a <strong>`Software Engineer`</strong> based in Accra, Ghana <img sr
   <img alt="GoogleColab" src="https://img.shields.io/badge/Google%20Colab-%23F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=white&style=for-the-badge" />
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-%23dadb24?logo=javascript&logoColor=white&style=for-the-badge" />
-<img alt="typescript" src="https://img.shields.io/badge/typescript-brightgreen?style=for-the-badge&logo=typescript&logoColor=white&color=blue" />
+
   <br>
 </p>
 
