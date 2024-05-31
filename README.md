@@ -22,7 +22,8 @@ I'm Julius, a <strong>`Software Engineer`</strong> based in Accra, Ghana <img sr
   <img alt="Vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
   <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-%233e6cc1?logo=postgresql&logoColor=white&style=for-the-badge" />
   <img alt="PgAdmin" src="https://img.shields.io/badge/pgAdmin-%233e6cc1?logo=postgresql&logoColor=white&style=for-the-badge" />
-	<img src="https://img.shields.io/badge/react-brightgreen?style=for-the-badge&logo=react&logoColor=%2339b0c6&color=%230e1544" />
+	<img alt="react" src="https://img.shields.io/badge/react-brightgreen?style=for-the-badge&logo=react&logoColor=%2339b0c6&color=%230e1544" />
+	<img alt="nextjs" src="https://img.shields.io/badge/next.js-brightgreen?style=for-the-badge&logo=nextdotjs&logoColor=white&color=black" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" />
   <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20?logo=django&logoColor=white&style=for-the-badge">
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?logo=Node.js&logoColor=white&style=for-the-badge" />
