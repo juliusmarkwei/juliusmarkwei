@@ -13,7 +13,6 @@ I'm Julius, a <strong>`Software Engineer`</strong> based in Accra, Ghana <img sr
 
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 <img alt="typescript" src="https://img.shields.io/badge/typescript-brightgreen?style=for-the-badge&logo=typescript&logoColor=white&color=blue" />
 <img alt="tailwinf-css" src="https://img.shields.io/badge/tailwind%20css-brightgreen?style=for-the-badge&logo=tailwind-css&logoColor=white&color=blue" />
   <img alt="python" src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white&style=for-the-badge">
