@@ -29,7 +29,7 @@ I'm Julius, a <strong>`Software Engineer`</strong> based in Accra, Ghana <img sr
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-%233FCF8E?logo=Supabase&logoColor=white&style=for-the-badge" />
   <img alt="Render" src="https://img.shields.io/badge/Render-%23a45b81?logo=render&logoColor=white&style=for-the-badge" />
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23B7178C?logo=vercel&logoColor=white&style=for-the-badge" />
-  <img alt="Django rest" src="https://img.shields.io/badge/Django%20Rest%20Framework-%23EF323D?logo=django&logoColor=white&style=for-the-badge">
+  <img alt="Django rest" src="https://img.shields.io/badge/DRF-%23EF323D?logo=django&logoColor=white&style=for-the-badge">
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
   <img alt="GitHUb" src="https://img.shields.io/badge/GitHub-%23F37626?logo=github&logoColor=white&style=for-the-badge" />
