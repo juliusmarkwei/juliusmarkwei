@@ -14,29 +14,19 @@ I'm Julius, a <strong>`Software Engineer`</strong> based in Accra, Ghana <img sr
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
 <img alt="typescript" src="https://img.shields.io/badge/typescript-brightgreen?style=for-the-badge&logo=typescript&logoColor=white&color=blue" />
 <img alt="tailwinf-css" src="https://img.shields.io/badge/tailwind%20css-brightgreen?style=for-the-badge&logo=tailwind-css&logoColor=white&color=blue" />
   <img alt="python" src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white&style=for-the-badge">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS%203-%231572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img alt="Vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
   <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-%233e6cc1?logo=postgresql&logoColor=white&style=for-the-badge" />
   <img alt="PgAdmin" src="https://img.shields.io/badge/pgAdmin-%233e6cc1?logo=postgresql&logoColor=white&style=for-the-badge" />
   <img alt="react" src="https://img.shields.io/badge/react-brightgreen?style=for-the-badge&logo=react&logoColor=%2339b0c6&color=%230e1544" />
   <img alt="nextjs" src="https://img.shields.io/badge/next.js-brightgreen?style=for-the-badge&logo=nextdotjs&logoColor=white&color=black" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" />
   <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20?logo=django&logoColor=white&style=for-the-badge">
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?logo=Node.js&logoColor=white&style=for-the-badge" />
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-%233FCF8E?logo=Supabase&logoColor=white&style=for-the-badge" />
-  <img alt="Render" src="https://img.shields.io/badge/Render-%23a45b81?logo=render&logoColor=white&style=for-the-badge" />
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23B7178C?logo=vercel&logoColor=white&style=for-the-badge" />
   <img alt="Django rest" src="https://img.shields.io/badge/Django%20Rest%20Framework-%23EF323D?logo=django&logoColor=white&style=for-the-badge">
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" />
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
   <img alt="GitHUb" src="https://img.shields.io/badge/GitHub-%23F37626?logo=github&logoColor=white&style=for-the-badge" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=white&style=for-the-badge" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=white&style=for-the-badge" />
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-%23dadb24?logo=javascript&logoColor=white&style=for-the-badge" />
 
