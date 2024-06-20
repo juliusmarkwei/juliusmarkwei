@@ -65,13 +65,7 @@ I'm Julius, a <strong>`Software Engineer`</strong> based in Accra, Ghana <img sr
       <td><img alt="Issues" src="https://img.shields.io/github/issues/juliusmarkwei/auth-system?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/juliusmarkwei/auth-system?style=flat-square&labelColor=343b41"/></td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/juliusmarkwei/Key-Indicators-of-Heart-Disease"><b>ML Prediction on Some Key Indicators of Heart Disease</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/juliusmarkwei/Key-Indicators-of-Heart-Disease?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/juliusmarkwei/Key-Indicators-of-Heart-Disease?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/juliusmarkwei/Key-Indicators-of-Heart-Disease?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/juliusmarkwei/Key-Indicators-of-Heart-Disease?style=flat-square&labelColor=343b41"/></td>
-    </tr>
+ 
   </tbody>
 </table>
 
