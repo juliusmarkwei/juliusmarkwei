@@ -39,35 +39,7 @@ I'm Julius, a <strong>`Software Engineer`</strong> based in Accra, Ghana <img sr
   <br>
 </p>
 
-<h3 align="center">🏆 Open source projects 🏆</h3>
-<table align="center">
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/juliusmarkwei/ecommerce-backend"><b>Ecommerce Backend</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/juliusmarkwei/ecommerce-backend?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/juliusmarkwei/ecommerce-backend?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/juliusmarkwei/ecommerce-backend?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/juliusmarkwei/ecommerce-backend?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/juliusmarkwei/auth-system"><b>Authentication System</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/juliusmarkwei/auth-system?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/juliusmarkwei/auth-system?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/juliusmarkwei/auth-system?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/juliusmarkwei/auth-system?style=flat-square&labelColor=343b41"/></td>
-    </tr>
- 
-  </tbody>
-</table>
+
 
 <h3 align="center">⚡ Stats ⚡</h3>
 
