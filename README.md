@@ -18,7 +18,6 @@ I'm Julius, a <strong>`Software Engineer`</strong> based in Accra, Ghana <img sr
   <img alt="python" src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white&style=for-the-badge">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS%203-%231572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-%233e6cc1?logo=postgresql&logoColor=white&style=for-the-badge" />
-  <img alt="PgAdmin" src="https://img.shields.io/badge/pgAdmin-%233e6cc1?logo=postgresql&logoColor=white&style=for-the-badge" />
   <img alt="react" src="https://img.shields.io/badge/react-brightgreen?style=for-the-badge&logo=react&logoColor=%2339b0c6&color=%230e1544" />
   <img alt="nextjs" src="https://img.shields.io/badge/next.js-brightgreen?style=for-the-badge&logo=nextdotjs&logoColor=white&color=black" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" />
