@@ -20,7 +20,6 @@ I'm Julius, a <strong>`Software Engineer`</strong> based in Accra, Ghana <img sr
   <img alt="react" src="https://img.shields.io/badge/react-brightgreen?style=for-the-badge&logo=react&logoColor=%2339b0c6&color=%230e1544" />
   <img alt="nextjs" src="https://img.shields.io/badge/next.js-brightgreen?style=for-the-badge&logo=nextdotjs&logoColor=white&color=black" />
   <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20?logo=django&logoColor=white&style=for-the-badge">
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?logo=Node.js&logoColor=white&style=for-the-badge" />
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-%233FCF8E?logo=Supabase&logoColor=white&style=for-the-badge" />
   <img alt="Django rest" src="https://img.shields.io/badge/DRF-%23EF323D?logo=django&logoColor=white&style=for-the-badge">
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-%23dadb24?logo=javascript&logoColor=white&style=for-the-badge" />
