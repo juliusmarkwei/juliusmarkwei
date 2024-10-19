@@ -9,8 +9,6 @@
 <p align="center">👋 Welcome to my GitHub page!</br>
 I'm Julius, a <strong>Software Engineer</strong> based in the vibrant city of Accra, Ghana <img src="./assets/ghana.png" style="display:inline" width="13"/>. With a deep passion for crafting resilient backend architectures and a relentless curiosity for cutting-edge technologies, I thrive on solving complex problems and transforming innovative ideas into reality.</br>
 </br>
-I specialize in building scalable, high-performance applications and constantly seek out opportunities to push the boundaries of what's possible. From designing efficient APIs to optimizing databases, my goal is to create seamless, user-centric experiences. Beyond code, I'm driven by a love for continuous learning, a commitment to excellence, and a desire to make a meaningful impact in the tech world.</br>
-</br>
 When I'm not immersed in lines of code, you can find me exploring the latest tech trends, contributing to open-source projects, or sharing insights with the developer community. Let's build something amazing together!</p>
 
 
