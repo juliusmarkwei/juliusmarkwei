@@ -25,6 +25,7 @@ I'm Julius, a <strong>Software Engineer</strong> based in the vibrant city of Ac
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-%233FCF8E?logo=Supabase&logoColor=white&style=for-the-badge" />
   <img alt="Django rest" src="https://img.shields.io/badge/DRF-%23EF323D?logo=django&logoColor=white&style=for-the-badge">
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-%23dadb24?logo=javascript&logoColor=white&style=for-the-badge" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/express-js?style=for-the-badge&logo=express&color=black">
   <br>
 </p>
 
