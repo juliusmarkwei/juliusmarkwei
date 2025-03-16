@@ -22,6 +22,7 @@ I'm Julius, a <strong>Software Engineer</strong> based in the vibrant city of Ac
   <img alt="react" src="https://img.shields.io/badge/react-brightgreen?style=for-the-badge&logo=react&logoColor=%2339b0c6&color=%230e1544" />
   <img alt="nextjs" src="https://img.shields.io/badge/next.js-brightgreen?style=for-the-badge&logo=nextdotjs&logoColor=white&color=black" />
 <img alt="Static Badge" src="https://img.shields.io/badge/express-js?style=for-the-badge&logo=express&color=black">
+	<img alt="nest" src="https://img.shields.io/badge/Nestjs-black?style=for-the-badge&logo=nestjs&logoColor=white">
 	<img alt="Static Badge" src="https://img.shields.io/badge/node-js?style=for-the-badge&logo=nodedotjs&labelColor=white&color=black">
  <img alt="Static Badge" src="https://img.shields.io/badge/embedded-js?style=for-the-badge&logo=ejs&color=black">
  <img alt="Static Badge" src="https://img.shields.io/badge/mongo-db?style=for-the-badge&logo=mongodb&color=black">
