@@ -7,7 +7,7 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> Hey! Nice to see you.</h1>
 
 <p align="center">👋 Welcome to my GitHub page!</br>
-I'm Julius, a <strong>Software Engineer</strong> based in the vibrant city of Accra, Ghana. With a deep passion for crafting resilient backend architectures and a relentless curiosity for cutting-edge technologies, I thrive on solving complex problems and transforming innovative ideas into reality.</br>
+I'm Julius, a <strong>Software Engineer</strong> based in the vibrant city of Accra, Ghana. With a deep passion for crafting resilient system architectures and a relentless curiosity for cutting-edge technologies, I thrive on solving complex problems and transforming innovative ideas into reality.</br>
 </p>
 
 
