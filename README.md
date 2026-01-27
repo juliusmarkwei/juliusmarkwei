@@ -31,8 +31,7 @@ I'm Julius, a <strong>Software Engineer</strong> based in the vibrant city of Ac
   <img alt="Django rest" src="https://img.shields.io/badge/DRF-%23EF323D?logo=django&logoColor=white&style=for-the-badge">
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-%23dadb24?logo=javascript&logoColor=white&style=for-the-badge" />
   
-
-
+![](https://komarev.com/ghpvc/?username=juliusmarkwei)
 
   <br>
 </p>
@@ -42,7 +41,7 @@ I'm Julius, a <strong>Software Engineer</strong> based in the vibrant city of Ac
 <h3 align="center">⚡ Stats ⚡</h3>
 
 <section style="text-align: center; display: block; margin: 0 auto;">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" style="text-align: center;"><img width=400 src="https://streak-stats.demolab.com/?user=juliusmarkwei&theme=dark&border=61dafb&hide_border=true" alt="juliusmarkwei" /></a>  <a style="text-align: center;" href="https://github.com/anuraghazra/github-readme-stats"><img width=400 src="https://github-readme-stats.vercel.app/api?username=juliusmarkwei&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="juliusmarkwei's github stats" /></a> <a style="text-align: center;" href="https://github.com/anuraghazra/github-readme-stats"><img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliusmarkwei&layout=compact&theme=dark&hide_border=true" /></a>
+    <a style="text-align: center;" href="https://github.com/anuraghazra/github-readme-stats"><img width=400 src="https://github-readme-stats.vercel.app/api?username=juliusmarkwei&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="juliusmarkwei's github stats" /></a> <a style="text-align: center;" href="https://github.com/anuraghazra/github-readme-stats"><img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliusmarkwei&layout=compact&theme=dark&hide_border=true" /></a>
 </section>
 	
 <br/>
